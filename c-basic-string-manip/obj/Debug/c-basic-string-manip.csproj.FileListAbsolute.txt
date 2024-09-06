@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-string-manip\c-basic-string-manip\bin\Debug\c-basic-string-manip.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-string-manip\c-basic-string-manip\bin\Debug\c-basic-string-manip.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-string-manip\c-basic-string-manip\bin\Debug\c-basic-string-manip.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-string-manip\c-basic-string-manip\obj\Debug\c-basic-string-manip.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-string-manip\c-basic-string-manip\obj\Debug\c-basic-string-manip.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-string-manip\c-basic-string-manip\obj\Debug\c-basic-string-manip.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-string-manip\c-basic-string-manip\obj\Debug\c-basic-string-manip.pdb
